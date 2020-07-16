@@ -1,5 +1,5 @@
 
-## Search Recipe
+## Search Recipe using React
 
 This app search for some recipe on Edamam API.
 
